@@ -66,8 +66,8 @@ sample.logic <- sample.numeric > 0
 
 sample.char <- c("a","b","c","d","e","f","g","h","i","k")
 
-sample.factor <-c("samll","medium","high","samll","medium","high"
-                ,"samll","medium","high","small")
+sample.factor <-c("small","medium","high","small","medium","high"
+                ,"small","medium","high","small")
 
 sample.factor <- factor(sample.factor)
 
