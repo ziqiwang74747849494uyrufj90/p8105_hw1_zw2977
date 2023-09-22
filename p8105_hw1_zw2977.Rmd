@@ -81,4 +81,5 @@ mean(data$sample.char)
 
 mean(data$sample.factor)
 ```
+
 last two are not numeric and logical
